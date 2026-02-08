@@ -1,0 +1,2 @@
+# lida-run
+runner game
